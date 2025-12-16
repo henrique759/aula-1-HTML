@@ -5,7 +5,7 @@ Este repositório contém projetos e exercícios práticos desenvolvidos durante
 O projeto consiste na criação de aulas, onde apliquei os conceitos fundamentais do HTML5 sem o uso de estilos (CSS) ou lógica (JS), priorizando a hierarquia da informação.
 
 Conceitos Aplicados:
-Tags Semânticas: Uso correto de <header>, <main>, <section>, <article>, <aside> e <footer>.
+Tags Semânticas: Uso correto de header, main, section, article, aside e footer.
 
 Hierarquia de Títulos: Organização lógica de h1 a h6.
 
