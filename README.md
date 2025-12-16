@@ -29,7 +29,7 @@ Faça o download do arquivo .zip ou clone o repositório:
 
 Bash
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Henrique/nome-do-repositorio.git
 Navegue até a pasta do projeto.
 
 Clique duas vezes no arquivo index.html para abrir no seu navegador de preferência.
